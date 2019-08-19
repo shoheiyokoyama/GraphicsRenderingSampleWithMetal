@@ -4,7 +4,7 @@ Sample of basic rendering graphics content using the [MetalKit](https://develope
 
 ***MetalKit*** is a framework for building Metal apps faster and easier.
 
-For details of the project, see my posts:
+For details of the project, see my posts :black_nib::
 - [Rendering graphics content using the MetalKit framework](https://medium.com/@shoheiyokoyama/rendering-graphics-content-using-the-metalkit-framework-ea3503f34535)
 - [Introducing Metal](https://medium.com/@shoheiyokoyama/introducing-metal-70af0cab9783)
 
